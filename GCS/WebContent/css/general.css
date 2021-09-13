@@ -54,6 +54,7 @@ table td{
 #adminViewTable td{
 	overflow: hidden;
     text-overflow: ellipsis;
+    color:white;
 } 
 
 #result{
