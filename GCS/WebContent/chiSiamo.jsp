@@ -13,7 +13,7 @@
 	<br>
 	<table id="chis">
 		<tr>
-			<td><img src="<c:url value="/images/ChiSiamo/gerardo.jpg"/>" id="Gerry"></td>
+			<td><img src="<c:url value="/images/ChiSiamo/gerardo.jpeg"/>" id="Gerry"></td>
 			<td><img src="<c:url value="/images/ChiSiamo/michelangelo.png"/>" id="Miche"></td>
 		</tr>
 		<tr>
