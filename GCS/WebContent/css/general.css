@@ -7,6 +7,11 @@ h2 {
 	color:#BE4F0C;
 }
 
+h2 #ceo
+{
+	color:black;
+}
+
 table td{
 	text-align: center;
 }
@@ -220,34 +225,28 @@ h1 {
 		border: 3px solid #BE4F0C;
 	}
 
-	#Miche {
+#Miche {
 		border-radius: 50%;
 		width: 150px;
 		border: 3px solid #BE4F0C;
-	}
+	}	
 
-	h1 {
-		color: white;
-		text-align: center;
-		font-size: 50px;
+#chis {
+	width: 100%;
+	align-items: center;
+ 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FF5A09;
+  	background: -moz-linear-gradient(left, #FF5A09 0%, #BE4F0C 50%, #EC7F37 100%);
+   	background: -webkit-linear-gradient(left, #FF5A09 0%, #BE4F0C 50%, #EC7F37 100%);
+    background: linear-gradient(to right, #FF5A09 0%, #BE4F0C 50%, #EC7F37 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
 
-	}
-
-	#chis {
-		width: 100%;
-		align-items: center;
-		text-align: center;
-		margin-left: auto;
-		margin-right: auto;
-		background: #FF5A09;
-  	    background: -moz-linear-gradient(left, #FF5A09 0%, #BE4F0C 50%, #EC7F37 100%);
-   	    background: -webkit-linear-gradient(left, #FF5A09 0%, #BE4F0C 50%, #EC7F37 100%);
-        background: linear-gradient(to right, #FF5A09 0%, #BE4F0C 50%, #EC7F37 100%);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-	}
-
-	#descrCS {
+#descrCS {
+		
 		text-align: center;
 		color:#cccccc;
 	}

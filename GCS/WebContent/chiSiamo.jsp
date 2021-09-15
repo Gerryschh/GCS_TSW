@@ -17,8 +17,8 @@
 			<td><img src="<c:url value="/images/ChiSiamo/michelangelo.png"/>" id="Miche"></td>
 		</tr>
 		<tr>
-			<td><h1 id="Gerardo">GERARDO</h1></td>
-			<td><h1 id="Michelangelo">MICHELANGELO</h1></td>
+			<td><h1>GERARDO</h1></td>
+			<td><h1>MICHELANGELO</h1></td>
 		</tr>
 		<tr>
 			<td><h2>CEO & FOUNDER</h2></td>
